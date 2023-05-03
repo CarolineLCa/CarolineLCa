@@ -7,19 +7,12 @@
 - 💻 Tenho experiências com flutter também.
 
 
-<div>
-<a href="https://github.com/CarolineLCa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineLCa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 ## Competências Técnicas:
   
 - 💻   JavaScript | Dart 
 - 📜   Flutter | React-Native | API
 - 🎨   Visual Studio code
 - 🔧   Git | Github
-
 
 
 ## Contatos:
