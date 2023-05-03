@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🎓 Sou formada em Sistemas de Informação pela UNICAMP;
-- 💼 Estou trabalhando como Analista de Sistemas do CPQD;
+- 💼 Estou trabalhando como Analista de Sistemas no CPQD;
 - 🔭 Estou estudando e trabalhando React-Native atualmente;
 - 💻 Tenho experiências com flutter também.
 
